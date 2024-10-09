@@ -33,3 +33,12 @@ source ml_tutorials_env/bin/activate
 
 # Install common dependencies
 pip install torch tensorflow scikit-learn
+```
+
+## Contributing
+If you want to contribute to these tutorials, feel free to open an issue or submit a pull request. Contributions to improve the clarity or add additional tutorials are always welcome!
+
+
+
+
+
